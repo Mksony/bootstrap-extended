@@ -1,35 +1,17 @@
 {
-  "name": "bootstrap-sass",
-  "homepage": "https://github.com/twbs/bootstrap-sass",
+  "name": "Bootstrap 3 Extended",
+  "version": "3.3.5",
+  "homepage": "https://github.com/Mksony/bootstrap-sass",
   "authors": [
-    "Thomas McDonald",
-    "Tristan Harward",
-    "Peter Gumeson",
-    "Gleb Mazovetskiy"
+    "Mksony <max.karacsony@web.de>"
   ],
-  "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
-  "moduleType": "globals",
-  "main": [
-    "assets/stylesheets/_bootstrap.scss",
-    "assets/javascripts/bootstrap.js"
-  ],
+  "description": "Fork of official Bootstrap Sass with additional column for phablets",
+  "main": "_bootstrap.scss",
   "keywords": [
-    "twbs",
     "bootstrap",
-    "sass"
+    "sass",
+    "scss",
+    "custom"
   ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "lib",
-    "tasks",
-    "templates",
-    "test",
-    "*.gemspec",
-    "Rakefile",
-    "Gemfile"
-  ],
-  "dependencies": {
-    "jquery": ">= 1.9.0"
-  }
+  "license": "MIT"
 }
