@@ -6,7 +6,7 @@
     "Mksony <max.karacsony@web.de>"
   ],
   "description": "Fork of official Bootstrap Sass with additional column for phablets",
-  "main": "_bootstrap.scss",
+  "main": "assets/stylesheets/_bootstrap.scss",
   "keywords": [
     "bootstrap",
     "sass",
