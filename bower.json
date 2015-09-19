@@ -1,7 +1,7 @@
 {
-  "name": "Bootstrap 3 Extended",
-  "version": "3.3.5",
-  "homepage": "https://github.com/Mksony/bootstrap-sass",
+  "name": "bs-extended-grid",
+  "version": "3.3.7",
+  "homepage": "https://github.com/Mksony/bootstrap-extended-grid",
   "authors": [
     "Mksony <max.karacsony@web.de>"
   ],
